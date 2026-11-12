@@ -1,0 +1,28 @@
+# Android build files
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Flutter generated files
+.dart_tool/
+.packages
+build/
+
+# Widget Preview
+.widget_preview/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+
+# Firebase private configuration
+android/app/google-services.json
+# IDE files
+.idea/
+*.iml
+
+# Flutter generated files
+.flutter-plugins-dependencies
+.dart_tool/
+build/
